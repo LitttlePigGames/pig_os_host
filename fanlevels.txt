@@ -1,5 +1,5 @@
 2;
 ["block", -50, -28, 10, 30, "block", -42, -28, 40, 4, "block", -50, 0, 190, 10, "block", 28, -28, 10, 24, "block", 8, -9, 6, 8, "block", 42, -28, 40, 4, "block", 80, -45, 10, 50, "block", 227, -35, 10, 28, "player", 0, -1, 1, 1];
-[Test Zone!, if you're seeing this, i suppose this is working! The level is a test zone btw, LittlePigGames];
+[Test Zone!, if you're seeing this i suppose this is working! The level is a test zone btw, LittlePigGames];
 ["block", -50, -28, 10, 30, "block", -42, -28, 40, 4, "block", -50, 0, 190, 10, "block", 28, -28, 10, 24, "block", 8, -9, 6, 8, "block", 42, -28, 40, 4, "block", 80, -45, 10, 50, "block", 227, -35, 10, 28, "player", 0, -1, 1, 1];
 [Copy of Test Zone!, a copy to test multiple levels!, LittlePigGames]
