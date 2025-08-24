@@ -1,5 +1,7 @@
-2;
-["block", -50, -28, 10, 30, "block", -42, -28, 40, 4, "block", -50, 0, 190, 10, "block", 28, -28, 10, 24, "block", 8, -9, 6, 8, "block", 42, -28, 40, 4, "block", 80, -45, 10, 50, "block", 227, -35, 10, 28, "player", 0, -1, 1, 1];
+3;
+["leveleditorblock.tscn", -50, -28, 10, 30, "leveleditorblock.tscn", -42, -28, 40, 4, "leveleditorblock.tscn", -50, 0, 190, 10, "leveleditorblock.tscn", 28, -28, 10, 24, "leveleditorblock.tscn", 8, -9, 6, 8, "leveleditorblock.tscn", 42, -28, 40, 4, "leveleditorblock.tscn", 80, -45, 10, 50, "leveleditorblock.tscn", 227, -35, 10, 28, "player.tscn", 0, -25, 1, 1];
 [Test Zone!, if you're seeing this i suppose this is working! The level is a test zone btw, LittlePigGames];
-["block", -50, -28, 10, 30, "block", -42, -28, 40, 4, "block", -50, 0, 190, 10, "block", 28, -28, 10, 24, "block", 8, -9, 6, 8, "block", 42, -28, 40, 4, "block", 80, -45, 10, 50, "block", 227, -35, 10, 28, "player", 0, -1, 1, 1];
-[Copy of Test Zone!, a copy to test multiple levels!, LittlePigGames]
+["leveleditorblock.tscn", -50, -28, 10, 30, "leveleditorblock.tscn", -42, -28, 40, 4, "leveleditorblock.tscn", -50, 0, 190, 10, "leveleditorblock.tscn", 28, -28, 10, 24, "leveleditorblock.tscn", 8, -9, 6, 8, "leveleditorblock.tscn", 42, -28, 40, 4, "leveleditorblock.tscn", 80, -45, 10, 50, "leveleditorblock.tscn", 227, -35, 10, 28, "player.tscn", 0, -25, 1, 1];
+[CopyTest Zone!, if you're seeing this i suppose this is working! The level is a test zone btw, LittlePigGames];
+["leveleditorblock.tscn", -50, -28, 10, 30, "leveleditorblock.tscn", -42, -28, 40, 4, "leveleditorblock.tscn", -50, 0, 190, 10, "leveleditorblock.tscn", 28, -28, 10, 24, "leveleditorblock.tscn", 8, -9, 6, 8, "leveleditorblock.tscn", 42, -28, 40, 4, "leveleditorblock.tscn", 80, -45, 10, 50, "leveleditorblock.tscn", 227, -35, 10, 28, "player.tscn", 0, -25, 1, 1];
+[Copy2Test Zone!, if you're seeing this i suppose this is working! The level is a test zone btw, LittlePigGames];
